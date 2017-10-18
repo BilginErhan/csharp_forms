@@ -1,0 +1,9 @@
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\bin\Debug\Tugce.exe.config
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\bin\Debug\Tugce.exe
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\bin\Debug\Tugce.pdb
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\obj\Debug\Tugce.csprojResolveAssemblyReference.cache
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\obj\Debug\Tugce.Form1.resources
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\obj\Debug\Tugce.Properties.Resources.resources
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\obj\Debug\Tugce.csproj.GenerateResource.Cache
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\obj\Debug\Tugce.exe
+c:\users\bilgin\documents\visual studio 2013\Projects\Tugce\Tugce\obj\Debug\Tugce.pdb
