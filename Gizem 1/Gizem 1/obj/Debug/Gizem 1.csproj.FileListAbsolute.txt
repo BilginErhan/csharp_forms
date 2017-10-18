@@ -1,0 +1,8 @@
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\bin\Debug\Gizem 1.exe.config
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\bin\Debug\Gizem 1.exe
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\bin\Debug\Gizem 1.pdb
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\obj\Debug\Gizem_1.Properties.Resources.resources
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\obj\Debug\Gizem 1.csproj.GenerateResource.Cache
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\obj\Debug\Gizem 1.exe
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\obj\Debug\Gizem 1.pdb
+c:\users\bilgin\documents\visual studio 2013\Projects\Gizem 1\Gizem 1\obj\Debug\Gizem 1.csprojResolveAssemblyReference.cache
